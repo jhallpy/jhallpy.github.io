@@ -1,7 +1,0 @@
-.crop{
-    max-width: 150px;
-}
-.crop img{
-    max-width: initial;
-    border-radius: 50%;
-}
